@@ -1,0 +1,6 @@
+model.joblib
+*.db
+__pycache__/
+.pytest_cache/
+.coverage
+venv/
