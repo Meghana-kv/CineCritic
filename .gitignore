@@ -1,6 +1,7 @@
-model.joblib
+
+.cine_secret
 *.db
+.coverage
 __pycache__/
 .pytest_cache/
-.coverage
-venv/
+.env
